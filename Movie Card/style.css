@@ -56,7 +56,7 @@ body{
   letter-spacing: 5px;
 }
 
-p{
+.card p{
   margin-top: -20px;
 }
 
@@ -64,7 +64,7 @@ p{
   margin-top: -10px;
 }
 
-p span{
+.card p span{
   margin-right: 10px;
 }
 
@@ -76,7 +76,7 @@ p span{
   text-align: justify;
 }
 
- a{
+ .card a{
   display: block;
   text-decoration: none;
   color: #f1c40f;
